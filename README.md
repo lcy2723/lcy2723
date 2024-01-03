@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Chunyang Li, a 21 years old undergraduate.
+I'm Chunyang Li, a senior undergraduate.
 Personal website: https://lcy2723.github.io/
 
 
