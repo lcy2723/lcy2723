@@ -42,7 +42,7 @@ class Me:
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
 
 **Github Stats**
 
