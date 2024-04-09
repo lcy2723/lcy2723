@@ -36,15 +36,3 @@ class Me:
     print("Thanks for dropping by, hope you have a nice day!")
 
 ```
-
-## 🔧 Technologies & Tools
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
-
-**Github Stats**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcy2723)](https://github.com/anuraghazra/github-readme-stats)
-
