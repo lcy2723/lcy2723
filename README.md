@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Chunyang Li, a senior undergraduate.
+I'm Chunyang Li, a first-year MPhil student.
 Personal website: https://lcy2723.github.io/
 
 
@@ -30,7 +30,7 @@ class Me:
     self.role = "Undergraduate"
     self.language_spoken = ["zh_CN", "en_US"]
     self.hobby = ["🏀Basketball","🎷Saxophone", "⛸Skating", "🏸Badminton" , ]
-    self.location = "Beijing"
+    self.location = "Hong Kong"
 
   def say_hi(self):
     print("Thanks for dropping by, hope you have a nice day!")
