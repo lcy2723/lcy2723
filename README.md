@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Chunyang Li, a first-year MPhil student.
+I'm Chunyang Li, a first-year MPhil student at HKUST.
 Personal website: https://lcy2723.github.io/
 
 
@@ -27,7 +27,7 @@ Personal website: https://lcy2723.github.io/
 class Me:
   def __init__(self):
     self.name = "Chunyang Li"
-    self.role = "Undergraduate"
+    self.role = "Graduate student"
     self.language_spoken = ["zh_CN", "en_US"]
     self.hobby = ["🏀Basketball","🎷Saxophone", "⛸Skating", "🏸Badminton" , ]
     self.location = "Hong Kong"
